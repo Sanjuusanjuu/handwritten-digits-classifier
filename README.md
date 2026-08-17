@@ -1,7 +1,7 @@
 # ML Assignment 2 — Handwritten Digits Classification
 
 **Course:** Machine Learning — M.Tech (AIML / DSE), BITS Pilani WILP
-**Author:** SANJANA P | **BITS ID:** 2025DA04262
+**Name:** SANJANA P | **BITS ID:** 2025DA04262
 
 ---
 
@@ -45,7 +45,7 @@ This satisfies the assignment's minimum requirements of **≥12 features**
 
 ## c. GitHub Repository Link
 
-`<PASTE YOUR GITHUB REPO URL HERE AFTER YOU PUSH THIS PROJECT>`
+https://github.com/Sanjuusanjuu/handwritten-digits-classifier.git
 
 Repository structure:
 
@@ -118,7 +118,7 @@ The deployed app (`app.py`) implements:
 
 ## Live Streamlit App Link
 
-`<PASTE YOUR DEPLOYED STREAMLIT COMMUNITY CLOUD URL HERE>`
+https://handwritten-digits-classifier-wbzchm3b2jncxxgdbtl7yc.streamlit.app/
 
 ## How to Reproduce Locally
 
@@ -129,7 +129,4 @@ python model/train_models.py     # trains all 6 models, writes test_data.csv
 streamlit run app.py
 ```
 
-## BITS Virtual Lab Execution
 
-_<Insert your screenshot of running this on the BITS Virtual Lab into the
-final submission PDF, as required by Section 2.3 of the assignment.>_
