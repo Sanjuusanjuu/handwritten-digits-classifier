@@ -1,0 +1,8 @@
+{
+  "Logistic Regression": true,
+  "Decision Tree": false,
+  "kNN": true,
+  "Naive Bayes": false,
+  "Random Forest (Ensemble)": false,
+  "SVM": true
+}
